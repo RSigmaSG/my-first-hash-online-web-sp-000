@@ -2,8 +2,8 @@ def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
   my_hash = {
     
-    "1" => "a"
-    "2" => "b"
+    "1" => "a",
+    "2" => "b",
     "3" => "c"
     
   }
